@@ -1,0 +1,7 @@
+#Wed Aug 16 07:37:29 AST 2017
+base.0=C\:\\Users\\asami\\Desktop\\Android Dev\\TwitterParse\\Twitter\\Twitter_Clone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_26056ab52b1ec93ed0d9fa213d402c4151039507
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\asami\\Desktop\\Android Dev\\TwitterParse\\Twitter\\Twitter_Clone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_44aa7ab28856d1f85954c9d494c0648eeeeab097\\classes.dex
+base.1=C\:\\Users\\asami\\Desktop\\Android Dev\\TwitterParse\\Twitter\\Twitter_Clone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_44aa7ab28856d1f85954c9d494c0648eeeeab097
+file.0=C\:\\Users\\asami\\Desktop\\Android Dev\\TwitterParse\\Twitter\\Twitter_Clone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_26056ab52b1ec93ed0d9fa213d402c4151039507\\classes.dex

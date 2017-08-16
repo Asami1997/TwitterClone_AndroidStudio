@@ -1,0 +1,4 @@
+#Wed Aug 16 06:55:31 AST 2017
+base.0=C\:\\Users\\asami\\Desktop\\Android Dev\\TwitterParse\\Twitter\\Twitter_Clone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=C\:\\Users\\asami\\Desktop\\Android Dev\\TwitterParse\\Twitter\\Twitter_Clone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

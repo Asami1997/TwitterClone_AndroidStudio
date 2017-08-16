@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\asami\\Desktop\\Android Dev\\TwitterParse\\Twitter\\Twitter_Clone\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\asami\\.android\\build-cache\\fddf66ebae3e4ac768497c3476eecb9b07054cf5\\output\\res\\values-en-rSG\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    }
+]
